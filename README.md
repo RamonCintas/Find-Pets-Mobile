@@ -10,7 +10,7 @@
   <b><h1>💡 Sobre</h1></b>
 </div>
 
-Diversos animais são abandonados ou perdidos todos os dias e não existe nenhuma ferramenta para a adoção dos mesmos. Nesse projeto vamos dar mais uma chance para todos os animais que estejam precisando de um novo lar com um aplicativo onde possa ser adotado o animal e assim facilitar a adoção de animais. Para isso utilizei a plataforma do MIT App Inventor para a criação do projeto.
+Diversos animais são abandonados ou perdidos todos os dias e não existe nenhuma ferramenta para a adoção dos mesmos. Nesse projeto vamos dar mais uma chance para todos os animais que estejam precisando de um novo lar com um aplicativo onde possa ser adotado o animal e assim facilitar a adoção de animais.
 
 ##
 
