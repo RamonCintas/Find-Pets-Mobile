@@ -1,7 +1,7 @@
 <div align="center">
   <b><h1>Find pets para mobile</h1></b>
   
-![Alt text](./Find-Pets.png "Optional title")
+![Alt text](./Imagens/Find-Pets.png "Optional title")
 </div>
 
 ##
@@ -51,37 +51,37 @@ Diversos animais são abandonados ou perdidos todos os dias e não existe nenhum
 
 <div align="center">
   
-![Alt text](./Tela-de-carregamento.png "Optional title")
+![Alt text](./Imagens/Tela-de-carregamento.png "Optional title")
 # Tela de carregamento
   
-![Alt text](./Tela-de-cadastro.png "Optional title")
+![Alt text](./Imagens/Tela-de-cadastro.png "Optional title")
 # Tela de cadastro
 
-![Alt text](./Tela-de-login.png "Optional title")
+![Alt text](./Imagens/Tela-de-login.png "Optional title")
 # Tela de login
 
-![Alt text](./Tela-de-menu.png "Optional title")
+![Alt text](./Imagens/Tela-de-menu.png "Optional title")
 # Tela de menu
 
-![Alt text](./Tela-de-pesquisa-de-animais.png "Optional title")
+![Alt text](./Imagens/Tela-de-pesquisa-de-animais.png "Optional title")
 # Tela de pesquisa de animais
 
-![Alt text](./Tela-de-cadastro-de-animais1.png "Optional title")
+![Alt text](./Imagens/Tela-de-cadastro-de-animais1.png "Optional title")
 # Tela de cadastro de animais 1
 
-![Alt text](./Tela-de-cadastro-de-animais2.png "Optional title")
+![Alt text](./Imagens/Tela-de-cadastro-de-animais2.png "Optional title")
 # Tela de cadastro de animais 2
 
-![Alt text](./Tela-de-anuncio1.png "Optional title")
+![Alt text](./Imagens/Tela-de-anuncio1.png "Optional title")
 # Tela de anúncio 1
 
-![Alt text](./Tela-de-anuncio2.png "Optional title")
+![Alt text](./Imagens/Tela-de-anuncio2.png "Optional title")
 # Tela de anúncio 2
 
-![Alt text](./Tela-de-chat1.png "Optional title")
+![Alt text](./Imagens/Tela-de-chat1.png "Optional title")
 # Tela de chat 1
 
-![Alt text](./Tela-de-chat2.png "Optional title")
+![Alt text](./Imagens/Tela-de-chat2.png "Optional title")
 # Tela de chat 2
 
 </div>
