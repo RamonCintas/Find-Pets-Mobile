@@ -1,7 +1,7 @@
 <div align="center">
-  <b><h1>Análise de Pareto com Python</h1></b>
+  <b><h1>Find pets para mobile</h1></b>
   
-![Alt text](./pareto.jpg "Optional title")
+![Alt text](./Find-Pets.png "Optional title")
 </div>
 
 ##
@@ -10,7 +10,7 @@
   <b><h1>💡 Sobre</h1></b>
 </div>
 
-Repositório com um programa desenvolvido para praticar a linguagem de programação python. E tem o objetivo de aprendizagem e melhora das habilidades, com o foco em realizar a análise de pareto através da linguagem python. 
+Diversos animais são abandonados ou perdidos todos os dias e não existe nenhuma ferramenta para a adoção dos mesmos. Nesse projeto vamos dar mais uma chance para todos os animais que estejam precisando de um novo lar com um aplicativo onde possa ser adotado o animal e assim facilitar a adoção de animais. Para isso utilizei a plataforma do MIT App Inventor para a criação do projeto.
 
 ##
 
@@ -34,7 +34,11 @@ Repositório com um programa desenvolvido para praticar a linguagem de programa�
 
 |      Estado      |     Plataforma   |                 Tarefa                |
 |      :---:       |       :---:      |                  :---:                |
-|:heavy_check_mark:|:computer:        |Elabore um código na linguagem python que receba como entrada os dados (variável nominal) de um arquivo TXT e apresente como saída uma tabela organizada na forma propícia para Análise de Pareto|
+|:heavy_check_mark:|:computer:        |Cadastro de animais  |
+|:heavy_check_mark:|:computer:        |Cadastro de usuários  |
+|:heavy_check_mark:|:computer:        |Tela de anúncios  |
+|:heavy_check_mark:|:computer:        |Chat de conversas |
+
 
 </details>
 </div>
@@ -47,11 +51,38 @@ Repositório com um programa desenvolvido para praticar a linguagem de programa�
 
 <div align="center">
   
-# Resultado no excel
-![Alt text](./resultado-excel.jpg "Optional title")
+![Alt text](./Tela-de-carregamento.png "Optional title")
+# Tela de carregamento
   
-# Resultado em python
-![Alt text](./resultado-python.png "Optional title")
+![Alt text](./Tela-de-cadastro.png "Optional title")
+# Tela de cadastro
+
+![Alt text](./Tela-de-login.png "Optional title")
+# Tela de login
+
+![Alt text](./Tela-de-menu.png "Optional title")
+# Tela de menu
+
+![Alt text](./Tela-de-pesquisa-de-animais.png "Optional title")
+# Tela de pesquisa de animais
+
+![Alt text](./Tela-de-cadastro-de-animais1.png "Optional title")
+# Tela de cadastro de animais 1
+
+![Alt text](./Tela-de-cadastro-de-animais2.png "Optional title")
+# Tela de cadastro de animais 2
+
+![Alt text](./Tela-de-anuncio1.png "Optional title")
+# Tela de anúncio 1
+
+![Alt text](./Tela-de-anuncio2.png "Optional title")
+# Tela de anúncio 2
+
+![Alt text](./Tela-de-chat1.png "Optional title")
+# Tela de chat 1
+
+![Alt text](./Tela-de-chat2.png "Optional title")
+# Tela de chat 2
 
 </div>
 
@@ -61,7 +92,7 @@ Repositório com um programa desenvolvido para praticar a linguagem de programa�
   <b><h1>💻 Executar</h1></b>
 </div>
 
-Para executar esse repositório e fazer uso dos códigos, você precisa clonar ou [`baixar`](https://github.com/RamonCintas/Analise-de-pareto/archive/refs/heads/main.zip) este repositório e ter algum meio que seja compativel com a linguagem de programação python.
+Para executar esse repositório e fazer uso dos códigos, você precisa clonar ou [`baixar`](https://github.com/RamonCintas/Find-Pets-Mobile/archive/refs/heads/main.zip) este repositório e instalar o apk find pets em um sistema que seja compativel com o sistema operacional android.
 
 ##
 
@@ -76,9 +107,7 @@ As seguintes ferramentas foram utilizadas para desenvolver esse repositório:
 |Ferramentas|
 |:-:|
 |<img align="center" alt="Ramon-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">[Sistema Windows](https://www.microsoft.com/pt-br/windows)|
-|<img align="center" alt="Ramon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">[Python](https://www.python.org/)|
-|[GDB Online Debugger](https://www.onlinegdb.com/)|
-|[Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)|
+|[MIT App Inventor](https://appinventor.mit.edu/)|
 </div>
 
 ##
