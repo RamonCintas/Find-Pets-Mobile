@@ -89,10 +89,10 @@ Diversos animais são abandonados ou perdidos todos os dias e não existe nenhum
 ##
 
 <div align="eight">
-  <b><h1>💻 Executar</h1></b>
+  <b><h1>💻 Download</h1></b>
 </div>
 
-Para executar esse repositório e fazer uso dos códigos, você precisa clonar ou [`baixar`](https://github.com/RamonCintas/Find-Pets-Mobile/archive/refs/heads/main.zip) este repositório e instalar o apk find pets em um sistema que seja compativel com o sistema operacional android.
+Para fazer uso desse repositório e dos códigos, você pode cloná-lo em seu GitHub com a opção de fork ou clique em [`baixar`](https://github.com/RamonCintas/Find-Pets-Mobile/archive/refs/heads/main.zip) esse repositório.
 
 ##
 
